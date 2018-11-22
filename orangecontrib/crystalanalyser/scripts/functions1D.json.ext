@@ -1,0 +1,2 @@
+['Abscissa from ','Abscissa to','Number of points','Function','Custom expression',      'Dump to file','File name']
+['True',          'True',       'True',            'True',    'self.FUNCTION_NAME == 3','True',        'self.DUMP_TO_FILE == 0']
