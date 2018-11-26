@@ -31,7 +31,7 @@ class OWPlotSimple(widget.OWWidget):
     input_field = Setting(10.0)
 
     def __init__(self):
-        super().__init__(self)
+        super().__init__()
 
         box = oasysgui.widgetBox(self.controlArea, "Input Form", orientation="vertical")
 
